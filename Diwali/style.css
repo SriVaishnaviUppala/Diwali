@@ -1,0 +1,182 @@
+*{
+    padding: 0;
+    margin: 0;}
+ body{
+background-color:lightgrey;
+    }
+li{
+    list-style-type: none;
+    float: left;
+    padding:  6px 70px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+.row1{
+    background-color: purple;
+    height:30px;
+   
+}
+li:hover{
+    background-color:lightgrey;
+}
+.row2 .container .logo{
+    font-weight: bold;
+    font-family: 'Lucida Handwriting';
+    margin-left: 120px;
+    float: left;
+}
+.row2 .container .pics{
+    float: right;
+    margin-right: 180px;
+}
+img{
+    padding: 5px;
+    width:30px;   
+}
+.row3{
+    margin-left: 120px;
+    margin-right: 190px;
+}
+.row3 img{
+    width: 100%;
+    height: 500px;
+}
+.row4{
+    margin-left: 125px;
+    margin-right: 185px;
+}
+.row4 .d1{
+    float: left;
+    width: 350px;
+    height: 470px;
+    box-shadow: 2px 2px 8px black;
+    border-radius: 5px;
+    margin-right: 80px;
+}
+.row4 .d2{
+    float: left;
+    width: 350px;
+    height: 470px;
+    margin-right: 20px;
+    box-shadow: 2px 2px 8px black;
+    border-radius: 5px;
+
+}
+.row4 .d3{
+    float: right;
+    width: 350px;
+    height: 470px;
+    box-shadow: 2px 2px 8px black;
+    border-radius: 5px;
+    
+
+}
+.row4 img{
+    width: 330px;
+    height: 200px;
+    padding: 10px;
+}
+.row4 p{
+    padding: 10px;
+    
+    font-size: 16px;
+    font-weight: lighter;
+}
+.row5{
+    margin-left: 125px;
+    margin-right: 185px;
+}
+.row5 .d1{
+    float: left;
+    width: 350px;
+    height: 350px;
+    box-shadow: 2px 2px 8px black;
+    border-radius: 5px;
+    margin-right: 80px;
+}
+.row5 .d2{
+    float: left;
+    width: 350px;
+    height: 350px;
+    margin-right: 20px;
+    box-shadow: 2px 2px 8px black;
+    border-radius: 5px;
+
+}
+.row5 .d3{
+    float: right;
+    width: 350px;
+    height: 350px;
+    box-shadow: 2px 2px 8px black;
+    border-radius: 5px;
+    
+
+}
+.row5 img{
+    width: 330px;
+    height: 200px;
+    padding: 10px;
+}
+.row5 p{
+    padding: 10px;
+    
+    font-size: 16px;
+    font-weight: lighter;
+}
+.row5{
+    margin-top: 50px;
+}
+.row5 .d3 .input1{
+    padding-left: 20px;
+}
+
+
+.row4 button{
+    width: 100px;
+    color: white;
+    background-color:plum;
+    text-align: center;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    margin-left: 100px;
+}
+.row6 .i1{
+    float: left;
+    margin-left:8px ;
+    padding: 5px;
+}
+.row6 .i2{
+    float: right;
+    margin-right: 8px;
+    padding: 5px;
+}
+.row6{
+    margin-left: 120px;
+    margin-right: 170px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    background-color:plum;
+    width:80%;
+    height: 40px;
+}
+.row7{
+    background-color: purple;text-align: center;
+    margin-top: 20px;
+}
+.butn{
+    width:50px;
+    color: white;
+    background-color: plum;
+    text-align: center;
+    height: 20px;
+    border: none;
+    border-radius: 3px;
+    margin-top:5px;
+    margin-right:5px;
+    
+}
+.clear{
+    clear: both;
+}
